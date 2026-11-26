@@ -1,0 +1,58 @@
+antecedents,consequents,n_nota,support,confidence,lift
+Kecap ABC Refil,Ayam slice 500.g,7,0.28,1.0,3.571428571428571
+Ayam slice 500.g,Kecap ABC Refil,7,0.28,1.0,3.571428571428571
+Masako 250g,Ayam slice 500.g,7,0.28,1.0,3.571428571428571
+Ayam slice 500.g,Masako 250g,7,0.28,1.0,3.571428571428571
+Kecap ABC Refil,Masako 250g,7,0.28,1.0,3.571428571428571
+Masako 250g,Kecap ABC Refil,7,0.28,1.0,3.571428571428571
+Kecap ABC Refil + Masako 250g,Ayam slice 500.g,7,0.28,1.0,3.571428571428571
+Ayam slice 500.g + Kecap ABC Refil,Masako 250g,7,0.28,1.0,3.571428571428571
+Ayam slice 500.g + Masako 250g,Kecap ABC Refil,7,0.28,1.0,3.571428571428571
+Kecap ABC Refil,Ayam slice 500.g + Masako 250g,7,0.28,1.0,3.571428571428571
+Masako 250g,Ayam slice 500.g + Kecap ABC Refil,7,0.28,1.0,3.571428571428571
+Ayam slice 500.g,Kecap ABC Refil + Masako 250g,7,0.28,1.0,3.571428571428571
+Filma minyak goreng 1L,Beras mangkok 20.kg,5,0.2,1.0,5.0
+Beras mangkok 20.kg,Filma minyak goreng 1L,5,0.2,1.0,5.0
+Gula pasir,Beras mangkok 20.kg,5,0.2,1.0,5.0
+Beras mangkok 20.kg,Gula pasir,5,0.2,1.0,5.0
+Filma minyak goreng 1L,Gula pasir,5,0.2,1.0,5.0
+Gula pasir,Filma minyak goreng 1L,5,0.2,1.0,5.0
+Filma minyak goreng 1L + Gula pasir,Beras mangkok 20.kg,5,0.2,1.0,5.0
+Beras mangkok 20.kg + Filma minyak goreng 1L,Gula pasir,5,0.2,1.0,5.0
+Beras mangkok 20.kg + Gula pasir,Filma minyak goreng 1L,5,0.2,1.0,5.0
+Filma minyak goreng 1L,Beras mangkok 20.kg + Gula pasir,5,0.2,1.0,5.0
+Gula pasir,Beras mangkok 20.kg + Filma minyak goreng 1L,5,0.2,1.0,5.0
+Beras mangkok 20.kg,Filma minyak goreng 1L + Gula pasir,5,0.2,1.0,5.0
+Daging kerbau potong 500.g,Racik bumbu tumis,3,0.12,1.0,8.333333333333334
+Racik bumbu tumis,Daging kerbau potong 500.g,3,0.12,1.0,8.333333333333334
+Jamur Enoki,Moonfish Bakso Ikan,2,0.08,1.0,12.5
+Moonfish Bakso Ikan,Jamur Enoki,2,0.08,1.0,12.5
+Tisu bulat jolly bal,Selada / Enoki,2,0.08,0.6666666666666667,8.333333333333334
+Selada / Enoki,Tisu bulat jolly bal,2,0.08,1.0,8.333333333333334
+"Champ Nuget Ori, Crispy",Mc lewis original mayonnaise 1.kg,2,0.08,0.6666666666666667,5.555555555555556
+Mc lewis original mayonnaise 1.kg,"Champ Nuget Ori, Crispy",2,0.08,0.6666666666666667,5.555555555555556
+teh Sariwangi isi/100,Beras mangkok 20.kg,2,0.08,1.0,5.0
+teh Sariwangi isi/100,Filma minyak goreng 1L,2,0.08,1.0,5.0
+teh Sariwangi isi/100,Gula pasir,2,0.08,1.0,5.0
+Filma minyak goreng 1L + teh Sariwangi isi/100,Beras mangkok 20.kg,2,0.08,1.0,5.0
+Beras mangkok 20.kg + teh Sariwangi isi/100,Filma minyak goreng 1L,2,0.08,1.0,5.0
+teh Sariwangi isi/100,Beras mangkok 20.kg + Filma minyak goreng 1L,2,0.08,1.0,5.0
+Gula pasir + teh Sariwangi isi/100,Beras mangkok 20.kg,2,0.08,1.0,5.0
+Beras mangkok 20.kg + teh Sariwangi isi/100,Gula pasir,2,0.08,1.0,5.0
+teh Sariwangi isi/100,Beras mangkok 20.kg + Gula pasir,2,0.08,1.0,5.0
+Filma minyak goreng 1L + teh Sariwangi isi/100,Gula pasir,2,0.08,1.0,5.0
+Gula pasir + teh Sariwangi isi/100,Filma minyak goreng 1L,2,0.08,1.0,5.0
+teh Sariwangi isi/100,Filma minyak goreng 1L + Gula pasir,2,0.08,1.0,5.0
+Filma minyak goreng 1L + Gula pasir + teh Sariwangi isi/100,Beras mangkok 20.kg,2,0.08,1.0,5.0
+Beras mangkok 20.kg + Filma minyak goreng 1L + teh Sariwangi isi/100,Gula pasir,2,0.08,1.0,5.0
+Beras mangkok 20.kg + Gula pasir + teh Sariwangi isi/100,Filma minyak goreng 1L,2,0.08,1.0,5.0
+Filma minyak goreng 1L + teh Sariwangi isi/100,Beras mangkok 20.kg + Gula pasir,2,0.08,1.0,5.0
+Gula pasir + teh Sariwangi isi/100,Beras mangkok 20.kg + Filma minyak goreng 1L,2,0.08,1.0,5.0
+Beras mangkok 20.kg + teh Sariwangi isi/100,Filma minyak goreng 1L + Gula pasir,2,0.08,1.0,5.0
+teh Sariwangi isi/100,Beras mangkok 20.kg + Filma minyak goreng 1L + Gula pasir,2,0.08,1.0,5.0
+"Kanzler Nuget Spicy, Ori",Jofran 225g,2,0.08,0.5,4.166666666666667
+Jofran 225g,"Kanzler Nuget Spicy, Ori",2,0.08,0.6666666666666667,4.166666666666667
+Tisu bulat jolly bal,Koki Jempol bumbu steamboat,2,0.08,0.6666666666666667,4.166666666666667
+Koki Jempol bumbu steamboat,Tisu bulat jolly bal,2,0.08,0.5,4.166666666666667
+Salam Sosis Bakar,"Kanzler Nuget Spicy, Ori",2,0.08,0.5,3.125
+"Kanzler Nuget Spicy, Ori",Salam Sosis Bakar,2,0.08,0.5,3.125

@@ -1,0 +1,29 @@
+kategori_1,kategori_2,semua,weekday,weekend
+Bumbu dan saus,Nugget & Sosis,37,26,11
+Bumbu dan saus,Sembako,33,18,15
+Nugget & Sosis,Sembako,32,20,12
+Daging dan Ayam,Sembako,16,3,13
+Bumbu dan saus,Daging dan Ayam,13,5,8
+Sayur,Sembako,13,8,5
+Daging dan Ayam,Nugget & Sosis,12,6,6
+Bumbu dan saus,Sayur,12,6,6
+Nugget & Sosis,Sayur,11,7,4
+Kemasan,Sembako,9,4,5
+Olahan Ikan,Sembako,9,5,4
+Bumbu dan saus,Olahan Ikan,8,5,3
+Olahan Ikan,Sayur,8,5,3
+Nugget & Sosis,Olahan Ikan,8,5,3
+Bumbu dan saus,Kemasan,8,4,4
+Kemasan,Nugget & Sosis,7,5,2
+Cemilan Gorengan,Nugget & Sosis,5,5,0
+Bumbu dan saus,Cemilan Gorengan,3,3,0
+Daging dan Ayam,Sayur,3,1,2
+Kemasan,Olahan Ikan,3,2,1
+Kemasan,Sayur,3,2,1
+Daging dan Ayam,Kemasan,2,1,1
+Cemilan Gorengan,Daging dan Ayam,2,2,0
+Cemilan Gorengan,Olahan Ikan,1,1,0
+Cemilan Gorengan,Sembako,1,1,0
+Cemilan Gorengan,Sayur,1,1,0
+Daging dan Ayam,Olahan Ikan,1,0,1
+Cemilan Gorengan,Kemasan,0,0,0

@@ -1,0 +1,46 @@
+antecedents,consequents,n_nota,support,confidence,lift
+"Champ Nuget Ori, Crispy",Delmonte saos manis 1kg,11,0.3333333333333333,0.9166666666666666,2.75
+Delmonte saos manis 1kg,"Champ Nuget Ori, Crispy",11,0.3333333333333333,1.0,2.75
+Mc lewis original mayonnaise 1.kg,Kanzler Sosis Original Cocktail 500g,8,0.24242424242424243,0.8,3.3000000000000003
+Kanzler Sosis Original Cocktail 500g,Mc lewis original mayonnaise 1.kg,8,0.24242424242424243,1.0,3.3
+Kebab Mini Ori,So Good Nuget Sedaap,5,0.15151515151515152,1.0,6.6
+So Good Nuget Sedaap,Kebab Mini Ori,5,0.15151515151515152,1.0,6.6
+Jamur Enoki,Moonfish Bakso Ikan,3,0.09090909090909091,1.0,11.0
+Moonfish Bakso Ikan,Jamur Enoki,3,0.09090909090909091,1.0,11.0
+"Champ Nuget Ori, Crispy + Kanzler Nuget Spicy, Ori",Delmonte saos manis 1kg,3,0.09090909090909091,1.0,3.0
+"Delmonte saos manis 1kg + Kanzler Nuget Spicy, Ori","Champ Nuget Ori, Crispy",3,0.09090909090909091,1.0,2.75
+"Kanzler Nuget Spicy, Ori",Delmonte saos manis 1kg,3,0.09090909090909091,0.5,1.5
+"Kanzler Nuget Spicy, Ori","Champ Nuget Ori, Crispy + Delmonte saos manis 1kg",3,0.09090909090909091,0.5,1.5
+"Kanzler Nuget Spicy, Ori","Champ Nuget Ori, Crispy",3,0.09090909090909091,0.5,1.375
+"Kanzler Nuget Spicy, Ori + Masku minyak goreng 1L",Koki Jempol bumbu steamboat,2,0.06060606060606061,1.0,11.0
+Koki Jempol bumbu steamboat,"Kanzler Nuget Spicy, Ori + Masku minyak goreng 1L",2,0.06060606060606061,0.6666666666666666,10.999999999999998
+"Kanzler Nuget Spicy, Ori + Koki Jempol bumbu steamboat",Masku minyak goreng 1L,2,0.06060606060606061,1.0,8.25
+Masku minyak goreng 1L,"Kanzler Nuget Spicy, Ori + Koki Jempol bumbu steamboat",2,0.06060606060606061,0.5,8.25
+Jamur,Koki Jempol bumbu steamboat,2,0.06060606060606061,0.6666666666666666,7.333333333333333
+Koki Jempol bumbu steamboat,Jamur,2,0.06060606060606061,0.6666666666666666,7.333333333333333
+Masku minyak goreng 1L,Koki Jempol bumbu steamboat,2,0.06060606060606061,0.5,5.5
+Koki Jempol bumbu steamboat + Masku minyak goreng 1L,"Kanzler Nuget Spicy, Ori",2,0.06060606060606061,1.0,5.5
+Koki Jempol bumbu steamboat,Masku minyak goreng 1L,2,0.06060606060606061,0.6666666666666666,5.499999999999999
+Ayam slice 500.g,Salam Pentol Ayam,2,0.06060606060606061,0.6666666666666666,4.3999999999999995
+Mc lewis original mayonnaise 1.kg + teh Sariwangi isi/100,Kanzler Sosis Original Cocktail 500g,2,0.06060606060606061,1.0,4.125
+Koki Jempol bumbu steamboat,"Kanzler Nuget Spicy, Ori",2,0.06060606060606061,0.6666666666666666,3.6666666666666665
+Kanzler Sosis Original Cocktail 500g + teh Sariwangi isi/100,Mc lewis original mayonnaise 1.kg,2,0.06060606060606061,1.0,3.3
+sabun daia,Delmonte saos manis 1kg,2,0.06060606060606061,1.0,3.0
+"Champ Nuget Ori, Crispy + Kikkoman Bulgogi",Delmonte saos manis 1kg,2,0.06060606060606061,1.0,3.0
+"Champ Nuget Ori, Crispy + plastik bambu",Delmonte saos manis 1kg,2,0.06060606060606061,1.0,3.0
+"Champ Nuget Ori, Crispy + sabun daia",Delmonte saos manis 1kg,2,0.06060606060606061,1.0,3.0
+sabun daia,"Champ Nuget Ori, Crispy + Delmonte saos manis 1kg",2,0.06060606060606061,1.0,3.0
+sabun daia,"Champ Nuget Ori, Crispy",2,0.06060606060606061,1.0,2.75
+Masku minyak goreng 1L,"Kanzler Nuget Spicy, Ori",2,0.06060606060606061,0.5,2.75
+Delmonte saos manis 1kg + Kikkoman Bulgogi,"Champ Nuget Ori, Crispy",2,0.06060606060606061,1.0,2.75
+Delmonte saos manis 1kg + plastik bambu,"Champ Nuget Ori, Crispy",2,0.06060606060606061,1.0,2.75
+Delmonte saos manis 1kg + sabun daia,"Champ Nuget Ori, Crispy",2,0.06060606060606061,1.0,2.75
+teh Sariwangi isi/100,Kanzler Sosis Original Cocktail 500g,2,0.06060606060606061,0.6666666666666666,2.7499999999999996
+teh Sariwangi isi/100,Kanzler Sosis Original Cocktail 500g + Mc lewis original mayonnaise 1.kg,2,0.06060606060606061,0.6666666666666666,2.7499999999999996
+teh Sariwangi isi/100,Mc lewis original mayonnaise 1.kg,2,0.06060606060606061,0.6666666666666666,2.1999999999999997
+Kikkoman Bulgogi,Delmonte saos manis 1kg,2,0.06060606060606061,0.6666666666666666,2.0
+plastik bambu,Delmonte saos manis 1kg,2,0.06060606060606061,0.6666666666666666,2.0
+Kikkoman Bulgogi,"Champ Nuget Ori, Crispy + Delmonte saos manis 1kg",2,0.06060606060606061,0.6666666666666666,2.0
+plastik bambu,"Champ Nuget Ori, Crispy + Delmonte saos manis 1kg",2,0.06060606060606061,0.6666666666666666,2.0
+Kikkoman Bulgogi,"Champ Nuget Ori, Crispy",2,0.06060606060606061,0.6666666666666666,1.8333333333333333
+plastik bambu,"Champ Nuget Ori, Crispy",2,0.06060606060606061,0.6666666666666666,1.8333333333333333

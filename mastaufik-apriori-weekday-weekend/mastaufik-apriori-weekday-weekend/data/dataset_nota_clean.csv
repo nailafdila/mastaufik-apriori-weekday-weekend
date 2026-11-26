@@ -1,0 +1,311 @@
+No_Nota,Tanggal,Nama Produk,Kategori,QTY,Harga Satuan,Harga Total,Nama Produk Clean,DayName,Segment,Bulan,Minggu
+TRX001,2026-08-01,Beras mangkok 20.kg,Sembako,2,380000,760000,Beras mangkok 20.kg,Saturday,Weekend,2026-08,31
+TRX001,2026-08-01,Filma minyak goreng 1L,Sembako,1,22000,22000,Filma minyak goreng 1L,Saturday,Weekend,2026-08,31
+TRX001,2026-08-01,Gula pasir,Sembako,4,20000,80000,Gula pasir,Saturday,Weekend,2026-08,31
+TRX001,2026-08-01,Mimyak kita,Sembako,1,18000,18000,Mimyak kita,Saturday,Weekend,2026-08,31
+TRX001,2026-08-01,teh Sariwangi isi/100,Sembako,2,26000,52000,teh Sariwangi isi/100,Saturday,Weekend,2026-08,31
+TRX001,2026-08-01,Shortplate 500.g,Daging dan Ayam,1,80000,80000,Shortplate 500.g,Saturday,Weekend,2026-08,31
+TRX002,2026-08-01,Moonfish Bakso Ikan,Olahan Ikan,1,25000,25000,Moonfish Bakso Ikan,Saturday,Weekend,2026-08,31
+TRX002,2026-08-01,Jamur Enoki,Sayur,1,6000,6000,Jamur Enoki,Saturday,Weekend,2026-08,31
+TRX003,2026-08-02,Daging kerbau potong 500.g,Daging dan Ayam,2,60000,120000,Daging kerbau potong 500.g,Sunday,Weekend,2026-08,31
+TRX003,2026-08-02,Racik bumbu tumis,Sembako,3,3000,9000,Racik bumbu tumis,Sunday,Weekend,2026-08,31
+TRX003,2026-08-02,Sunfish Chikuwa 1kg,Olahan Ikan,1,60000,60000,Sunfish Chikuwa 1kg,Sunday,Weekend,2026-08,31
+TRX003,2026-08-02,Sunfish Crab Stick,Olahan Ikan,2,60000,120000,Sunfish Crab Stick,Sunday,Weekend,2026-08,31
+TRX004,2026-08-04,"Champ Nuget Ori, Crispy",Nugget & Sosis,3,37000,111000,"Champ Nuget Ori, Crispy",Tuesday,Weekday,2026-08,32
+TRX004,2026-08-04,Delmonte saos manis 1kg,Bumbu dan saus,1,18000,18000,Delmonte saos manis 1kg,Tuesday,Weekday,2026-08,32
+TRX004,2026-08-04,So Eco 1kg,Nugget & Sosis,1,38000,38000,So Eco 1kg,Tuesday,Weekday,2026-08,32
+TRX004,2026-08-04,Beras Mangkok 10.kg,Sembako,1,169000,169000,Beras Mangkok 10.kg,Tuesday,Weekday,2026-08,32
+TRX004,2026-08-04,plastik bambu,Sembako,1,15000,15000,plastik bambu,Tuesday,Weekday,2026-08,32
+TRX005,2026-08-05,Moonfish Bakso Ikan,Olahan Ikan,2,25000,50000,Moonfish Bakso Ikan,Wednesday,Weekday,2026-08,32
+TRX005,2026-08-05,Jamur Enoki,Sayur,1,6000,6000,Jamur Enoki,Wednesday,Weekday,2026-08,32
+TRX005,2026-08-05,sunlight,Sembako,2,13000,26000,sunlight,Wednesday,Weekday,2026-08,32
+TRX006,2026-08-06,"Champ Nuget Ori, Crispy",Nugget & Sosis,1,37000,37000,"Champ Nuget Ori, Crispy",Thursday,Weekday,2026-08,32
+TRX006,2026-08-06,Delmonte saos manis 1kg,Bumbu dan saus,2,18000,36000,Delmonte saos manis 1kg,Thursday,Weekday,2026-08,32
+TRX006,2026-08-06,Salam Nuget 1kg,Nugget & Sosis,1,40000,40000,Salam Nuget 1kg,Thursday,Weekday,2026-08,32
+TRX006,2026-08-06,Selera ayam goreng lengkuas,Sembako,6,2000,12000,Selera ayam goreng lengkuas,Thursday,Weekday,2026-08,32
+TRX006,2026-08-06,"Kenzler Nuget Spicy, Ori",Nugget & Sosis,1,47000,47000,"Kanzler Nuget Spicy, Ori",Thursday,Weekday,2026-08,32
+TRX007,2026-08-06,Salam Pentol Ayam,Nugget & Sosis,1,22000,22000,Salam Pentol Ayam,Thursday,Weekday,2026-08,32
+TRX008,2026-08-08,Ayam slice 500.g,Daging dan Ayam,1,38000,38000,Ayam slice 500.g,Saturday,Weekend,2026-08,32
+TRX008,2026-08-08,Masako 250g,Bumbu dan saus,4,12000,48000,Masako 250g,Saturday,Weekend,2026-08,32
+TRX008,2026-08-08,Kecap ABC Refil,Sembako,2,22000,44000,Kecap ABC Refil,Saturday,Weekend,2026-08,32
+TRX008,2026-08-08,Kikkoman Barbekue,Bumbu dan saus,3,25000,75000,Kikkoman Barbekue,Saturday,Weekend,2026-08,32
+TRX009,2026-08-08,Ayam slice 500.g,Daging dan Ayam,1,38000,38000,Ayam slice 500.g,Saturday,Weekend,2026-08,32
+TRX009,2026-08-08,Masako 250g,Bumbu dan saus,2,12000,24000,Masako 250g,Saturday,Weekend,2026-08,32
+TRX009,2026-08-08,Kecap ABC Refil,Sembako,2,22000,44000,Kecap ABC Refil,Saturday,Weekend,2026-08,32
+TRX009,2026-08-08,Masku minyak goreng 1L,Sembako,2,21000,42000,Masku minyak goreng 1L,Saturday,Weekend,2026-08,32
+TRX009,2026-08-08,Teh sariwangi isi.50,Sembako,1,14000,14000,Teh sariwangi isi.50,Saturday,Weekend,2026-08,32
+TRX010,2026-08-08,Daging kerbau potong 500.g,Daging dan Ayam,2,60000,120000,Daging kerbau potong 500.g,Saturday,Weekend,2026-08,32
+TRX010,2026-08-08,Racik bumbu tumis,Sembako,3,3000,9000,Racik bumbu tumis,Saturday,Weekend,2026-08,32
+TRX011,2026-08-08,Ayam slice 500.g,Daging dan Ayam,3,38000,114000,Ayam slice 500.g,Saturday,Weekend,2026-08,32
+TRX011,2026-08-08,Masako 250g,Bumbu dan saus,3,12000,36000,Masako 250g,Saturday,Weekend,2026-08,32
+TRX011,2026-08-08,Kecap ABC Refil,Sembako,2,22000,44000,Kecap ABC Refil,Saturday,Weekend,2026-08,32
+TRX011,2026-08-08,Aluminuim Foil,Kemasan,1,40000,40000,Aluminuim Foil,Saturday,Weekend,2026-08,32
+TRX011,2026-08-08,Racik tempe-tahu 1.rtg 10.pcs,Sembako,1,18000,18000,Racik tempe-tahu 1.rtg 10.pcs,Saturday,Weekend,2026-08,32
+TRX012,2026-08-09,Masku minyak goreng 1L,Sembako,4,21000,84000,Masku minyak goreng 1L,Sunday,Weekend,2026-08,32
+TRX012,2026-08-09,Hemart minyak goreng 500ml,Sembako,2,14000,28000,Hemart minyak goreng 500ml,Sunday,Weekend,2026-08,32
+TRX012,2026-08-09,Selera ayam goreng lengkuas,Sembako,6,2000,12000,Selera ayam goreng lengkuas,Sunday,Weekend,2026-08,32
+TRX012,2026-08-09,Koki Jempol bumbu suki,Bumbu dan saus,1,15000,15000,Koki Jempol bumbu suki,Sunday,Weekend,2026-08,32
+TRX012,2026-08-09,Plastik 2kg,Sembako,2,13000,26000,Plastik 2kg,Sunday,Weekend,2026-08,32
+TRX012,2026-08-09,Salam Sosis Bakar,Nugget & Sosis,3,32000,96000,Salam Sosis Bakar,Sunday,Weekend,2026-08,32
+TRX013,2026-08-11,Moonfish Bakso Ikan,Olahan Ikan,1,25000,25000,Moonfish Bakso Ikan,Tuesday,Weekday,2026-08,33
+TRX013,2026-08-11,Jamur Enoki,Sayur,1,6000,6000,Jamur Enoki,Tuesday,Weekday,2026-08,33
+TRX013,2026-08-11,Antaka TUMTUM,Bumbu dan saus,1,10000,10000,Antaka TUMTUM,Tuesday,Weekday,2026-08,33
+TRX013,2026-08-11,Teh sariwangi isi.50,Sembako,2,14000,28000,Teh sariwangi isi.50,Tuesday,Weekday,2026-08,33
+TRX014,2026-08-12,Koki Jempol bumbu steamboat,Bumbu dan saus,1,15000,15000,Koki Jempol bumbu steamboat,Wednesday,Weekday,2026-08,33
+TRX014,2026-08-12,Desaku kunyit bubuk rentengan,Sembako,10,1000,10000,Desaku kunyit bubuk rentengan,Wednesday,Weekday,2026-08,33
+TRX014,2026-08-12,Jamur,Sayur,2,7000,14000,Jamur,Wednesday,Weekday,2026-08,33
+TRX014,2026-08-12,Antaka TUMTUM,Bumbu dan saus,1,10000,10000,Antaka TUMTUM,Wednesday,Weekday,2026-08,33
+TRX014,2026-08-12,Racik tempe-tahu 1.rtg 10.pcs,Sembako,1,18000,18000,Racik tempe-tahu 1.rtg 10.pcs,Wednesday,Weekday,2026-08,33
+TRX014,2026-08-12,Salam Pentol Ayam,Nugget & Sosis,3,22000,66000,Salam Pentol Ayam,Wednesday,Weekday,2026-08,33
+TRX014,2026-08-12,Fiesta pokpok,Nugget & Sosis,1,47000,47000,Fiesta pokpok,Wednesday,Weekday,2026-08,33
+TRX014,2026-08-12,Sunfish Singapore 500g,Olahan Ikan,4,26000,104000,Sunfish Singapore 500g,Wednesday,Weekday,2026-08,33
+TRX015,2026-08-12,"Champ Nuget Ori, Crispy",Nugget & Sosis,2,37000,74000,"Champ Nuget Ori, Crispy",Wednesday,Weekday,2026-08,33
+TRX015,2026-08-12,Delmonte saos manis 1kg,Bumbu dan saus,2,18000,36000,Delmonte saos manis 1kg,Wednesday,Weekday,2026-08,33
+TRX015,2026-08-12,Padasuka pala bubuk rentengan,Sembako,6,1000,6000,Padasuka pala bubuk rentengan,Wednesday,Weekday,2026-08,33
+TRX015,2026-08-12,sabun daia,Sembako,1,6000,6000,sabun daia,Wednesday,Weekday,2026-08,33
+TRX016,2026-08-15,Beras mangkok 20.kg,Sembako,1,380000,380000,Beras mangkok 20.kg,Saturday,Weekend,2026-08,33
+TRX016,2026-08-15,Filma minyak goreng 1L,Sembako,2,22000,44000,Filma minyak goreng 1L,Saturday,Weekend,2026-08,33
+TRX016,2026-08-15,Gula pasir,Sembako,1,20000,20000,Gula pasir,Saturday,Weekend,2026-08,33
+TRX016,2026-08-15,Delmonte saos manis 1kg,Bumbu dan saus,1,18000,18000,Delmonte saos manis 1kg,Saturday,Weekend,2026-08,33
+TRX016,2026-08-15,Okey Sosis 500g,Nugget & Sosis,1,28000,28000,Okey Sosis 500g,Saturday,Weekend,2026-08,33
+TRX016,2026-08-15,Kertas Nasi gajah,Kemasan,1,40000,40000,Kertas Nasi gajah,Saturday,Weekend,2026-08,33
+TRX016,2026-08-15,"ILM Bintang, Burger, Sukhoi, Stik",Olahan Ikan,2,17000,34000,"ILM Bintang, Burger, Sukhoi, Stik",Saturday,Weekend,2026-08,33
+TRX016,2026-08-15,teh Sariwangi isi/100,Sembako,2,26000,52000,teh Sariwangi isi/100,Saturday,Weekend,2026-08,33
+TRX017,2026-08-16,Plastik 2kg,Sembako,1,13000,13000,Plastik 2kg,Sunday,Weekend,2026-08,33
+TRX017,2026-08-16,Tisu bulat jolly bal,Sembako,2,16000,32000,Tisu bulat jolly bal,Sunday,Weekend,2026-08,33
+TRX017,2026-08-16,Tusuk gigi,Kemasan,4,22000,88000,Tusuk gigi,Sunday,Weekend,2026-08,33
+TRX017,2026-08-16,Koki Jempol bumbu steamboat,Bumbu dan saus,4,15000,60000,Koki Jempol bumbu steamboat,Sunday,Weekend,2026-08,33
+TRX017,2026-08-16,Antaka TUMTUM,Bumbu dan saus,1,10000,10000,Antaka TUMTUM,Sunday,Weekend,2026-08,33
+TRX018,2026-08-16,Kanzler Sosis Original Cocktail 500g,Nugget & Sosis,1,50000,50000,Kanzler Sosis Original Cocktail 500g,Sunday,Weekend,2026-08,33
+TRX018,2026-08-16,Mc lewis original mayonnaise 1.kg,Bumbu dan saus,2,24500,49000,Mc lewis original mayonnaise 1.kg,Sunday,Weekend,2026-08,33
+TRX018,2026-08-16,Saori saus tiram rentengan,Bumbu dan saus,6,3000,18000,Saori saus tiram rentengan,Sunday,Weekend,2026-08,33
+TRX018,2026-08-16,"Champ Nuget Ori, Crispy",Nugget & Sosis,2,37000,74000,"Champ Nuget Ori, Crispy",Sunday,Weekend,2026-08,33
+TRX019,2026-08-17,Kebab Mini Ori,Cemilan Gorengan,1,30000,30000,Kebab Mini Ori,Monday,Weekday,2026-08,34
+TRX019,2026-08-17,So Good Nuget Sedaap,Nugget & Sosis,3,29000,87000,So Good Nuget Sedaap,Monday,Weekday,2026-08,34
+TRX019,2026-08-17,Shortplate 500.g,Daging dan Ayam,1,80000,80000,Shortplate 500.g,Monday,Weekday,2026-08,34
+TRX019,2026-08-17,"Kenzler Nuget Spicy, Ori",Nugget & Sosis,2,47000,94000,"Kanzler Nuget Spicy, Ori",Monday,Weekday,2026-08,34
+TRX020,2026-08-17,Salam Pentol Ayam,Nugget & Sosis,1,22000,22000,Salam Pentol Ayam,Monday,Weekday,2026-08,34
+TRX020,2026-08-17,Kertas Nasi gajah,Kemasan,3,40000,120000,Kertas Nasi gajah,Monday,Weekday,2026-08,34
+TRX020,2026-08-17,Mc lewis original mayonnaise 1.kg,Bumbu dan saus,1,24500,24500,Mc lewis original mayonnaise 1.kg,Monday,Weekday,2026-08,34
+TRX020,2026-08-17,"Kenzler Nuget Spicy, Ori",Nugget & Sosis,1,47000,47000,"Kanzler Nuget Spicy, Ori",Monday,Weekday,2026-08,34
+TRX020,2026-08-17,"Indomina Dumpling, Cumi Flower, Ekor Udang",Olahan Ikan,1,32000,32000,"Indomina Dumpling, Cumi Flower, Ekor Udang",Monday,Weekday,2026-08,34
+TRX021,2026-08-18,Ayam slice 500.g,Daging dan Ayam,3,38000,114000,Ayam slice 500.g,Tuesday,Weekday,2026-08,34
+TRX021,2026-08-18,Masako 250g,Bumbu dan saus,1,12000,12000,Masako 250g,Tuesday,Weekday,2026-08,34
+TRX021,2026-08-18,Kecap ABC Refil,Sembako,1,22000,22000,Kecap ABC Refil,Tuesday,Weekday,2026-08,34
+TRX021,2026-08-18,Salam Pentol Ayam,Nugget & Sosis,4,22000,88000,Salam Pentol Ayam,Tuesday,Weekday,2026-08,34
+TRX021,2026-08-18,Koki Jempol bumbu suki,Bumbu dan saus,1,15000,15000,Koki Jempol bumbu suki,Tuesday,Weekday,2026-08,34
+TRX021,2026-08-18,Masku minyak goreng 1L,Sembako,1,21000,21000,Masku minyak goreng 1L,Tuesday,Weekday,2026-08,34
+TRX021,2026-08-18,Telur Tabakan,Sayur,1,65000,65000,Telur Tabakan,Tuesday,Weekday,2026-08,34
+TRX022,2026-08-19,Kanzler Sosis Original Cocktail 500g,Nugget & Sosis,2,50000,100000,Kanzler Sosis Original Cocktail 500g,Wednesday,Weekday,2026-08,34
+TRX022,2026-08-19,Mc lewis original mayonnaise 1.kg,Bumbu dan saus,1,24500,24500,Mc lewis original mayonnaise 1.kg,Wednesday,Weekday,2026-08,34
+TRX022,2026-08-19,"ILM Bintang, Burger, Sukhoi, Stik",Olahan Ikan,2,17000,34000,"ILM Bintang, Burger, Sukhoi, Stik",Wednesday,Weekday,2026-08,34
+TRX022,2026-08-19,Beras 2T 10.kg/stadji,Sembako,1,165000,165000,Beras 2T 10.kg/stadji,Wednesday,Weekday,2026-08,34
+TRX023,2026-08-20,"Champ Nuget Ori, Crispy",Nugget & Sosis,1,37000,37000,"Champ Nuget Ori, Crispy",Thursday,Weekday,2026-08,34
+TRX023,2026-08-20,Delmonte saos manis 1kg,Bumbu dan saus,2,18000,36000,Delmonte saos manis 1kg,Thursday,Weekday,2026-08,34
+TRX023,2026-08-20,Kikkoman Bulgogi,Bumbu dan saus,1,25000,25000,Kikkoman Bulgogi,Thursday,Weekday,2026-08,34
+TRX023,2026-08-20,Ayam slice 500.g,Daging dan Ayam,1,38000,38000,Ayam slice 500.g,Thursday,Weekday,2026-08,34
+TRX024,2026-08-21,Kanzler Sosis Original Cocktail 500g,Nugget & Sosis,3,50000,150000,Kanzler Sosis Original Cocktail 500g,Friday,Weekday,2026-08,34
+TRX024,2026-08-21,Mc lewis original mayonnaise 1.kg,Bumbu dan saus,2,24500,49000,Mc lewis original mayonnaise 1.kg,Friday,Weekday,2026-08,34
+TRX024,2026-08-21,Salam Pentol Sapi,Nugget & Sosis,1,25000,25000,Salam Pentol Sapi,Friday,Weekday,2026-08,34
+TRX024,2026-08-21,Mama Lemon,Sembako,5,12000,60000,Mama Lemon,Friday,Weekday,2026-08,34
+TRX025,2026-08-22,Telur Tabakan,Sayur,2,65000,130000,Telur Tabakan,Saturday,Weekend,2026-08,34
+TRX025,2026-08-22,"Champ Nuget Ori, Crispy",Nugget & Sosis,1,37000,37000,"Champ Nuget Ori, Crispy",Saturday,Weekend,2026-08,34
+TRX025,2026-08-22,kentang shoestring 500.g,Nugget & Sosis,1,20000,20000,kentang shoestring 500.g,Saturday,Weekend,2026-08,34
+TRX025,2026-08-22,Mc lewis sweet mayonnaise 1.kg,Bumbu dan saus,1,22500,22500,Mc lewis sweet mayonnaise 1.kg,Saturday,Weekend,2026-08,34
+TRX025,2026-08-22,Jofran 225g,Nugget & Sosis,1,16000,16000,Jofran 225g,Saturday,Weekend,2026-08,34
+TRX025,2026-08-22,Desaku kunyit bubuk rentengan,Sembako,3,1000,3000,Desaku kunyit bubuk rentengan,Saturday,Weekend,2026-08,34
+TRX026,2026-08-25,plastik bambu,Sembako,3,15000,45000,plastik bambu,Tuesday,Weekday,2026-08,35
+TRX026,2026-08-25,sumpit 1.ikat isi.7,Sembako,1,5000,5000,sumpit 1.ikat isi.7,Tuesday,Weekday,2026-08,35
+TRX026,2026-08-25,Jamur,Sayur,1,7000,7000,Jamur,Tuesday,Weekday,2026-08,35
+TRX026,2026-08-25,"Kenzler Nuget Spicy, Ori",Nugget & Sosis,4,47000,188000,"Kanzler Nuget Spicy, Ori",Tuesday,Weekday,2026-08,35
+TRX026,2026-08-25,Koki Jempol bumbu steamboat,Bumbu dan saus,1,15000,15000,Koki Jempol bumbu steamboat,Tuesday,Weekday,2026-08,35
+TRX026,2026-08-25,Masku minyak goreng 1L,Sembako,1,21000,21000,Masku minyak goreng 1L,Tuesday,Weekday,2026-08,35
+TRX027,2026-08-29,"Champ Nuget Ori, Crispy",Nugget & Sosis,1,37000,37000,"Champ Nuget Ori, Crispy",Saturday,Weekend,2026-08,35
+TRX027,2026-08-29,Delmonte saos manis 1kg,Bumbu dan saus,1,18000,18000,Delmonte saos manis 1kg,Saturday,Weekend,2026-08,35
+TRX027,2026-08-29,Maestro salad dressing wijen sangrai,Sembako,2,7000,14000,Maestro salad dressing wijen sangrai,Saturday,Weekend,2026-08,35
+TRX027,2026-08-29,Mc lewis original mayonnaise 1.kg,Bumbu dan saus,1,24500,24500,Mc lewis original mayonnaise 1.kg,Saturday,Weekend,2026-08,35
+TRX027,2026-08-29,Antaka TUMTUM,Bumbu dan saus,1,10000,10000,Antaka TUMTUM,Saturday,Weekend,2026-08,35
+TRX028,2026-08-29,Ayam slice 500.g,Daging dan Ayam,1,38000,38000,Ayam slice 500.g,Saturday,Weekend,2026-08,35
+TRX028,2026-08-29,Masako 250g,Bumbu dan saus,2,12000,24000,Masako 250g,Saturday,Weekend,2026-08,35
+TRX028,2026-08-29,Kecap ABC Refil,Sembako,3,22000,66000,Kecap ABC Refil,Saturday,Weekend,2026-08,35
+TRX028,2026-08-29,ABC bumbu kacang 60gr,Bumbu dan saus,1,6000,6000,ABC bumbu kacang 60gr,Saturday,Weekend,2026-08,35
+TRX028,2026-08-29,Tisu bulat jolly bal,Sembako,1,16000,16000,Tisu bulat jolly bal,Saturday,Weekend,2026-08,35
+TRX028,2026-08-29,Selada / Enoki,Sayur,1,10000,10000,Selada / Enoki,Saturday,Weekend,2026-08,35
+TRX029,2026-08-29,Salam Sosis Bakar,Nugget & Sosis,1,32000,32000,Salam Sosis Bakar,Saturday,Weekend,2026-08,35
+TRX029,2026-08-29,Kikkoman Bulgogi,Bumbu dan saus,1,25000,25000,Kikkoman Bulgogi,Saturday,Weekend,2026-08,35
+TRX029,2026-08-29,Koki Jempol bumbu steamboat,Bumbu dan saus,2,15000,30000,Koki Jempol bumbu steamboat,Saturday,Weekend,2026-08,35
+TRX029,2026-08-29,Shortplate 500.g,Daging dan Ayam,3,80000,240000,Shortplate 500.g,Saturday,Weekend,2026-08,35
+TRX029,2026-08-29,"Kenzler Nuget Spicy, Ori",Nugget & Sosis,2,47000,94000,"Kanzler Nuget Spicy, Ori",Saturday,Weekend,2026-08,35
+TRX029,2026-08-29,Pipet Kertas,Sembako,1,35000,35000,Pipet Kertas,Saturday,Weekend,2026-08,35
+TRX030,2026-08-30,Racik tempe-tahu 1.rtg 10.pcs,Sembako,2,18000,36000,Racik tempe-tahu 1.rtg 10.pcs,Sunday,Weekend,2026-08,35
+TRX030,2026-08-30,Masku minyak goreng 1L,Sembako,1,21000,21000,Masku minyak goreng 1L,Sunday,Weekend,2026-08,35
+TRX030,2026-08-30,ceker tampa tulang 500.g,Daging dan Ayam,3,35000,105000,ceker tampa tulang 500.g,Sunday,Weekend,2026-08,35
+TRX030,2026-08-30,plastik bambu,Sembako,1,15000,15000,plastik bambu,Sunday,Weekend,2026-08,35
+TRX030,2026-08-30,Okey Nuget,Nugget & Sosis,1,27000,27000,Okey Nuget,Sunday,Weekend,2026-08,35
+TRX031,2026-08-30,Ayam slice 500.g,Daging dan Ayam,1,38000,38000,Ayam slice 500.g,Sunday,Weekend,2026-08,35
+TRX031,2026-08-30,Masako 250g,Bumbu dan saus,1,12000,12000,Masako 250g,Sunday,Weekend,2026-08,35
+TRX031,2026-08-30,Kecap ABC Refil,Sembako,2,22000,44000,Kecap ABC Refil,Sunday,Weekend,2026-08,35
+TRX031,2026-08-30,plastik bambu,Sembako,1,15000,15000,plastik bambu,Sunday,Weekend,2026-08,35
+TRX031,2026-08-30,"Kenzler Nuget Spicy, Ori",Nugget & Sosis,1,47000,47000,"Kanzler Nuget Spicy, Ori",Sunday,Weekend,2026-08,35
+TRX032,2026-09-01,Kebab Mini Ori,Cemilan Gorengan,4,30000,120000,Kebab Mini Ori,Tuesday,Weekday,2026-09,36
+TRX032,2026-09-01,So Good Nuget Sedaap,Nugget & Sosis,2,29000,58000,So Good Nuget Sedaap,Tuesday,Weekday,2026-09,36
+TRX032,2026-09-01,ceker tampa tulang 500.g,Daging dan Ayam,2,35000,70000,ceker tampa tulang 500.g,Tuesday,Weekday,2026-09,36
+TRX032,2026-09-01,Jofran 225g,Nugget & Sosis,1,16000,16000,Jofran 225g,Tuesday,Weekday,2026-09,36
+TRX032,2026-09-01,Kikkoman Bulgogi,Bumbu dan saus,1,25000,25000,Kikkoman Bulgogi,Tuesday,Weekday,2026-09,36
+TRX033,2026-09-01,"Champ Nuget Ori, Crispy",Nugget & Sosis,1,37000,37000,"Champ Nuget Ori, Crispy",Tuesday,Weekday,2026-09,36
+TRX033,2026-09-01,Delmonte saos manis 1kg,Bumbu dan saus,1,18000,18000,Delmonte saos manis 1kg,Tuesday,Weekday,2026-09,36
+TRX034,2026-09-01,Kanzler Sosis Original Cocktail 500g,Nugget & Sosis,1,50000,50000,Kanzler Sosis Original Cocktail 500g,Tuesday,Weekday,2026-09,36
+TRX034,2026-09-01,Mc lewis original mayonnaise 1.kg,Bumbu dan saus,2,24500,49000,Mc lewis original mayonnaise 1.kg,Tuesday,Weekday,2026-09,36
+TRX034,2026-09-01,Mc lewis sweet mayonnaise 1.kg,Bumbu dan saus,2,22500,45000,Mc lewis sweet mayonnaise 1.kg,Tuesday,Weekday,2026-09,36
+TRX034,2026-09-01,teh Sariwangi isi/100,Sembako,1,26000,26000,teh Sariwangi isi/100,Tuesday,Weekday,2026-09,36
+TRX034,2026-09-01,Ayam slice 500.g,Daging dan Ayam,1,38000,38000,Ayam slice 500.g,Tuesday,Weekday,2026-09,36
+TRX034,2026-09-01,Salam Pentol Ayam,Nugget & Sosis,2,22000,44000,Salam Pentol Ayam,Tuesday,Weekday,2026-09,36
+TRX035,2026-09-01,Kanzler Sosis Original Cocktail 500g,Nugget & Sosis,2,50000,100000,Kanzler Sosis Original Cocktail 500g,Tuesday,Weekday,2026-09,36
+TRX035,2026-09-01,Mc lewis original mayonnaise 1.kg,Bumbu dan saus,1,24500,24500,Mc lewis original mayonnaise 1.kg,Tuesday,Weekday,2026-09,36
+TRX035,2026-09-01,Okey Nuget,Nugget & Sosis,1,27000,27000,Okey Nuget,Tuesday,Weekday,2026-09,36
+TRX035,2026-09-01,Kenzler Sosis Cheese Cocktail 500g,Nugget & Sosis,2,50000,100000,Kanzler Sosis Cheese Cocktail 500g,Tuesday,Weekday,2026-09,36
+TRX036,2026-09-03,"Champ Nuget Ori, Crispy",Nugget & Sosis,1,37000,37000,"Champ Nuget Ori, Crispy",Thursday,Weekday,2026-09,36
+TRX036,2026-09-03,Delmonte saos manis 1kg,Bumbu dan saus,1,18000,18000,Delmonte saos manis 1kg,Thursday,Weekday,2026-09,36
+TRX036,2026-09-03,Risantan santan bubuk instan rentengan,Sembako,6,3000,18000,Risantan santan bubuk instan rentengan,Thursday,Weekday,2026-09,36
+TRX036,2026-09-03,Okey Nuget,Nugget & Sosis,1,27000,27000,Okey Nuget,Thursday,Weekday,2026-09,36
+TRX037,2026-09-04,"Champ Nuget Ori, Crispy",Nugget & Sosis,1,37000,37000,"Champ Nuget Ori, Crispy",Friday,Weekday,2026-09,36
+TRX037,2026-09-04,Delmonte saos manis 1kg,Bumbu dan saus,3,18000,54000,Delmonte saos manis 1kg,Friday,Weekday,2026-09,36
+TRX037,2026-09-04,plastik bambu,Sembako,1,15000,15000,plastik bambu,Friday,Weekday,2026-09,36
+TRX038,2026-09-04,Gula pasir,Sembako,1,20000,20000,Gula pasir,Friday,Weekday,2026-09,36
+TRX038,2026-09-04,teh Sariwangi isi/100,Sembako,1,26000,26000,teh Sariwangi isi/100,Friday,Weekday,2026-09,36
+TRX038,2026-09-04,Teh sariwangi isi.50,Sembako,3,14000,42000,Teh sariwangi isi.50,Friday,Weekday,2026-09,36
+TRX038,2026-09-04,Selada / Enoki,Sayur,1,10000,10000,Selada / Enoki,Friday,Weekday,2026-09,36
+TRX038,2026-09-04,"Ladaku rentingan 2,5.g",Sembako,3,11000,33000,"Ladaku rentingan 2,5.g",Friday,Weekday,2026-09,36
+TRX038,2026-09-04,Salam Sosis Bakar,Nugget & Sosis,4,32000,128000,Salam Sosis Bakar,Friday,Weekday,2026-09,36
+TRX038,2026-09-04,Fiesta pokpok,Nugget & Sosis,1,47000,47000,Fiesta pokpok,Friday,Weekday,2026-09,36
+TRX038,2026-09-04,Beras 2T 10.kg/stadji,Sembako,3,165000,495000,Beras 2T 10.kg/stadji,Friday,Weekday,2026-09,36
+TRX038,2026-09-04,Nugger Akumo,Nugget & Sosis,1,29000,29000,Nugger Akumo,Friday,Weekday,2026-09,36
+TRX038,2026-09-04,Kenzler Sosis Cheese Cocktail 500g,Nugget & Sosis,1,50000,50000,Kanzler Sosis Cheese Cocktail 500g,Friday,Weekday,2026-09,36
+TRX039,2026-09-05,Daging kerbau potong 500.g,Daging dan Ayam,1,60000,60000,Daging kerbau potong 500.g,Saturday,Weekend,2026-09,36
+TRX039,2026-09-05,Racik bumbu tumis,Sembako,10,3000,30000,Racik bumbu tumis,Saturday,Weekend,2026-09,36
+TRX039,2026-09-05,"Kenzler Nuget Spicy, Ori",Nugget & Sosis,1,47000,47000,"Kanzler Nuget Spicy, Ori",Saturday,Weekend,2026-09,36
+TRX039,2026-09-05,naget kanzler spicy 450.g,Nugget & Sosis,1,47000,47000,Nuget kanzler spicy 450.g,Saturday,Weekend,2026-09,36
+TRX039,2026-09-05,Jofran 225g,Nugget & Sosis,1,16000,16000,Jofran 225g,Saturday,Weekend,2026-09,36
+TRX039,2026-09-05,Masako kaldu jamur rentengan,Sembako,5,1500,7500,Masako kaldu jamur rentengan,Saturday,Weekend,2026-09,36
+TRX040,2026-09-05,Moonfish Bakso Ikan,Olahan Ikan,2,25000,50000,Moonfish Bakso Ikan,Saturday,Weekend,2026-09,36
+TRX040,2026-09-05,Jamur Enoki,Sayur,1,6000,6000,Jamur Enoki,Saturday,Weekend,2026-09,36
+TRX040,2026-09-05,Antaka barbekiu,Bumbu dan saus,1,10000,10000,Antaka barbekiu,Saturday,Weekend,2026-09,36
+TRX040,2026-09-05,Edamame,Sayur,2,38000,76000,Edamame,Saturday,Weekend,2026-09,36
+TRX040,2026-09-05,"Kenzler Nuget Spicy, Ori",Nugget & Sosis,2,47000,94000,"Kanzler Nuget Spicy, Ori",Saturday,Weekend,2026-09,36
+TRX040,2026-09-05,Antaka TUMTUM,Bumbu dan saus,1,10000,10000,Antaka TUMTUM,Saturday,Weekend,2026-09,36
+TRX040,2026-09-05,Mitraku Bakso Mix 250g,Olahan Ikan,1,18000,18000,Mitraku Bakso Mix 250g,Saturday,Weekend,2026-09,36
+TRX040,2026-09-05,Salam Sosis Bakar,Nugget & Sosis,1,32000,32000,Salam Sosis Bakar,Saturday,Weekend,2026-09,36
+TRX040,2026-09-05,Fiesta pokpok,Nugget & Sosis,2,47000,94000,Fiesta pokpok,Saturday,Weekend,2026-09,36
+TRX040,2026-09-05,Jofran 225g,Nugget & Sosis,1,16000,16000,Jofran 225g,Saturday,Weekend,2026-09,36
+TRX041,2026-09-05,Ayam slice 500.g,Daging dan Ayam,1,38000,38000,Ayam slice 500.g,Saturday,Weekend,2026-09,36
+TRX041,2026-09-05,Masako 250g,Bumbu dan saus,3,12000,36000,Masako 250g,Saturday,Weekend,2026-09,36
+TRX041,2026-09-05,Kecap ABC Refil,Sembako,1,22000,22000,Kecap ABC Refil,Saturday,Weekend,2026-09,36
+TRX041,2026-09-05,Full belly 500.g,Daging dan Ayam,2,65000,130000,Full belly 500.g,Saturday,Weekend,2026-09,36
+TRX041,2026-09-05,Maestro salad dressing wijen sangrai,Sembako,3,7000,21000,Maestro salad dressing wijen sangrai,Saturday,Weekend,2026-09,36
+TRX041,2026-09-05,Salam Sosis Bakar,Nugget & Sosis,1,32000,32000,Salam Sosis Bakar,Saturday,Weekend,2026-09,36
+TRX041,2026-09-05,Jamur,Sayur,1,7000,7000,Jamur,Saturday,Weekend,2026-09,36
+TRX041,2026-09-05,Del monte saus tomat saset,Bumbu dan saus,3,7000,21000,Delmonte saus tomat saset,Saturday,Weekend,2026-09,36
+TRX042,2026-09-07,"Champ Nuget Ori, Crispy",Nugget & Sosis,1,37000,37000,"Champ Nuget Ori, Crispy",Monday,Weekday,2026-09,37
+TRX042,2026-09-07,Delmonte saos manis 1kg,Bumbu dan saus,2,18000,36000,Delmonte saos manis 1kg,Monday,Weekday,2026-09,37
+TRX042,2026-09-07,sabun daia,Sembako,2,6000,12000,sabun daia,Monday,Weekday,2026-09,37
+TRX042,2026-09-07,kertas prin 1.pak,Sayur,1,45000,45000,kertas prin 1.pak,Monday,Weekday,2026-09,37
+TRX042,2026-09-07,Kertas Nasi gajah,Kemasan,1,40000,40000,Kertas Nasi gajah,Monday,Weekday,2026-09,37
+TRX042,2026-09-07,Desaku bawang putih bubuk rentengan,Sembako,3,1000,3000,Desaku bawang putih bubuk rentengan,Monday,Weekday,2026-09,37
+TRX042,2026-09-07,sunlight,Sembako,1,13000,13000,sunlight,Monday,Weekday,2026-09,37
+TRX042,2026-09-07,Tisu bulat jolly bal,Sembako,1,16000,16000,Tisu bulat jolly bal,Monday,Weekday,2026-09,37
+TRX042,2026-09-07,Desaku kunyit bubuk rentengan,Sembako,3,1000,3000,Desaku kunyit bubuk rentengan,Monday,Weekday,2026-09,37
+TRX042,2026-09-07,Plastik 2kg,Sembako,2,13000,26000,Plastik 2kg,Monday,Weekday,2026-09,37
+TRX043,2026-09-07,"Champ Nuget Ori, Crispy",Nugget & Sosis,2,37000,74000,"Champ Nuget Ori, Crispy",Monday,Weekday,2026-09,37
+TRX043,2026-09-07,Delmonte saos manis 1kg,Bumbu dan saus,2,18000,36000,Delmonte saos manis 1kg,Monday,Weekday,2026-09,37
+TRX043,2026-09-07,Kikkoman Bulgogi,Bumbu dan saus,3,25000,75000,Kikkoman Bulgogi,Monday,Weekday,2026-09,37
+TRX043,2026-09-07,Fiesta pokpok,Nugget & Sosis,1,47000,47000,Fiesta pokpok,Monday,Weekday,2026-09,37
+TRX044,2026-09-08,Moonfish Bakso Ikan,Olahan Ikan,1,25000,25000,Moonfish Bakso Ikan,Tuesday,Weekday,2026-09,37
+TRX044,2026-09-08,Jamur Enoki,Sayur,1,6000,6000,Jamur Enoki,Tuesday,Weekday,2026-09,37
+TRX044,2026-09-08,Desaku bawang putih bubuk rentengan,Sembako,3,1000,3000,Desaku bawang putih bubuk rentengan,Tuesday,Weekday,2026-09,37
+TRX044,2026-09-08,Masku minyak goreng 1L,Sembako,2,21000,42000,Masku minyak goreng 1L,Tuesday,Weekday,2026-09,37
+TRX044,2026-09-08,Tusuk gigi,Kemasan,1,22000,22000,Tusuk gigi,Tuesday,Weekday,2026-09,37
+TRX044,2026-09-08,Okey Nuget,Nugget & Sosis,2,27000,54000,Okey Nuget,Tuesday,Weekday,2026-09,37
+TRX045,2026-09-09,Kanzler Sosis Original Cocktail 500g,Nugget & Sosis,1,50000,50000,Kanzler Sosis Original Cocktail 500g,Wednesday,Weekday,2026-09,37
+TRX045,2026-09-09,Mc lewis original mayonnaise 1.kg,Bumbu dan saus,4,24500,98000,Mc lewis original mayonnaise 1.kg,Wednesday,Weekday,2026-09,37
+TRX045,2026-09-09,Plastik 2kg,Sembako,2,13000,26000,Plastik 2kg,Wednesday,Weekday,2026-09,37
+TRX045,2026-09-09,Salam Sosis Bakar,Nugget & Sosis,4,32000,128000,Salam Sosis Bakar,Wednesday,Weekday,2026-09,37
+TRX046,2026-09-09,Kebab Mini Ori,Cemilan Gorengan,3,30000,90000,Kebab Mini Ori,Wednesday,Weekday,2026-09,37
+TRX046,2026-09-09,So Good Nuget Sedaap,Nugget & Sosis,1,29000,29000,So Good Nuget Sedaap,Wednesday,Weekday,2026-09,37
+TRX046,2026-09-09,Mc lewis original mayonnaise 1.kg,Bumbu dan saus,1,24500,24500,Mc lewis original mayonnaise 1.kg,Wednesday,Weekday,2026-09,37
+TRX046,2026-09-09,Fiesta pokpok,Nugget & Sosis,4,47000,188000,Fiesta pokpok,Wednesday,Weekday,2026-09,37
+TRX046,2026-09-09,Fiesta Katsu,Nugget & Sosis,3,50000,150000,Fiesta Katsu,Wednesday,Weekday,2026-09,37
+TRX047,2026-09-09,"Champ Nuget Ori, Crispy",Nugget & Sosis,2,37000,74000,"Champ Nuget Ori, Crispy",Wednesday,Weekday,2026-09,37
+TRX047,2026-09-09,Delmonte saos manis 1kg,Bumbu dan saus,2,18000,36000,Delmonte saos manis 1kg,Wednesday,Weekday,2026-09,37
+TRX047,2026-09-09,Tropical minyak goreng 1L,Sembako,2,25000,50000,Tropical minyak goreng 1L,Wednesday,Weekday,2026-09,37
+TRX047,2026-09-09,"Kenzler Nuget Spicy, Ori",Nugget & Sosis,1,47000,47000,"Kanzler Nuget Spicy, Ori",Wednesday,Weekday,2026-09,37
+TRX047,2026-09-09,Sajiku,Sembako,2,25000,50000,Sajiku,Wednesday,Weekday,2026-09,37
+TRX048,2026-09-10,Kebab Mini Ori,Cemilan Gorengan,3,30000,90000,Kebab Mini Ori,Thursday,Weekday,2026-09,37
+TRX048,2026-09-10,So Good Nuget Sedaap,Nugget & Sosis,1,29000,29000,So Good Nuget Sedaap,Thursday,Weekday,2026-09,37
+TRX048,2026-09-10,"Champ Nuget Ori, Crispy",Nugget & Sosis,2,37000,74000,"Champ Nuget Ori, Crispy",Thursday,Weekday,2026-09,37
+TRX048,2026-09-10,Racik ikan 1.rtg 10.pcs,Sembako,4,18000,72000,Racik ikan 1.rtg 10.pcs,Thursday,Weekday,2026-09,37
+TRX049,2026-09-10,Kanzler Sosis Original Cocktail 500g,Nugget & Sosis,1,50000,50000,Kanzler Sosis Original Cocktail 500g,Thursday,Weekday,2026-09,37
+TRX049,2026-09-10,Mc lewis original mayonnaise 1.kg,Bumbu dan saus,1,24500,24500,Mc lewis original mayonnaise 1.kg,Thursday,Weekday,2026-09,37
+TRX049,2026-09-10,Racik tempe-tahu 1.rtg 10.pcs,Sembako,2,18000,36000,Racik tempe-tahu 1.rtg 10.pcs,Thursday,Weekday,2026-09,37
+TRX049,2026-09-10,Teh sariwangi isi.50,Sembako,1,14000,14000,Teh sariwangi isi.50,Thursday,Weekday,2026-09,37
+TRX050,2026-09-11,Kanzler Sosis Original Cocktail 500g,Nugget & Sosis,1,50000,50000,Kanzler Sosis Original Cocktail 500g,Friday,Weekday,2026-09,37
+TRX050,2026-09-11,Mc lewis original mayonnaise 1.kg,Bumbu dan saus,3,24500,73500,Mc lewis original mayonnaise 1.kg,Friday,Weekday,2026-09,37
+TRX050,2026-09-11,Full belly 500.g,Daging dan Ayam,5,65000,325000,Full belly 500.g,Friday,Weekday,2026-09,37
+TRX050,2026-09-11,Sterofoam bubur,Kemasan,1,55000,55000,Sterofoam bubur,Friday,Weekday,2026-09,37
+TRX050,2026-09-11,So Good Original,Nugget & Sosis,1,36000,36000,So Good Original,Friday,Weekday,2026-09,37
+TRX050,2026-09-11,teh Sariwangi isi/100,Sembako,2,26000,52000,teh Sariwangi isi/100,Friday,Weekday,2026-09,37
+TRX050,2026-09-11,Plastik 1/2,Sembako,1,13000,13000,Plastik 1/2,Friday,Weekday,2026-09,37
+TRX051,2026-09-12,Ayam slice 500.g,Daging dan Ayam,2,38000,76000,Ayam slice 500.g,Saturday,Weekend,2026-09,37
+TRX051,2026-09-12,Masako 250g,Bumbu dan saus,1,12000,12000,Masako 250g,Saturday,Weekend,2026-09,37
+TRX051,2026-09-12,Kecap ABC Refil,Sembako,3,22000,66000,Kecap ABC Refil,Saturday,Weekend,2026-09,37
+TRX051,2026-09-12,Okey Nuget,Nugget & Sosis,1,27000,27000,Okey Nuget,Saturday,Weekend,2026-09,37
+TRX051,2026-09-12,So Good Original,Nugget & Sosis,1,36000,36000,So Good Original,Saturday,Weekend,2026-09,37
+TRX051,2026-09-12,"Ladaku rentingan 2,5.g",Sembako,4,11000,44000,"Ladaku rentingan 2,5.g",Saturday,Weekend,2026-09,37
+TRX052,2026-09-12,Beras mangkok 20.kg,Sembako,1,380000,380000,Beras mangkok 20.kg,Saturday,Weekend,2026-09,37
+TRX052,2026-09-12,Filma minyak goreng 1L,Sembako,1,22000,22000,Filma minyak goreng 1L,Saturday,Weekend,2026-09,37
+TRX052,2026-09-12,Gula pasir,Sembako,1,20000,20000,Gula pasir,Saturday,Weekend,2026-09,37
+TRX052,2026-09-12,Racik tempe-tahu 1.rtg 10.pcs,Sembako,1,18000,18000,Racik tempe-tahu 1.rtg 10.pcs,Saturday,Weekend,2026-09,37
+TRX052,2026-09-12,steropom stadji,Kemasan,3,55000,165000,steropom stadji,Saturday,Weekend,2026-09,37
+TRX052,2026-09-12,Plastik 2kg,Sembako,1,13000,13000,Plastik 2kg,Saturday,Weekend,2026-09,37
+TRX053,2026-09-13,Beras mangkok 20.kg,Sembako,2,380000,760000,Beras mangkok 20.kg,Sunday,Weekend,2026-09,37
+TRX053,2026-09-13,Filma minyak goreng 1L,Sembako,1,22000,22000,Filma minyak goreng 1L,Sunday,Weekend,2026-09,37
+TRX053,2026-09-13,Gula pasir,Sembako,2,20000,40000,Gula pasir,Sunday,Weekend,2026-09,37
+TRX053,2026-09-13,Mc lewis original mayonnaise 1.kg,Bumbu dan saus,2,24500,49000,Mc lewis original mayonnaise 1.kg,Sunday,Weekend,2026-09,37
+TRX053,2026-09-13,Telur Tabakan,Sayur,1,65000,65000,Telur Tabakan,Sunday,Weekend,2026-09,37
+TRX053,2026-09-13,Koki Jempol bumbu steamboat,Bumbu dan saus,2,15000,30000,Koki Jempol bumbu steamboat,Sunday,Weekend,2026-09,37
+TRX053,2026-09-13,Minaku Otak otak,Olahan Ikan,3,26000,78000,Minaku Otak otak,Sunday,Weekend,2026-09,37
+TRX054,2026-09-14,Kebab Mini Ori,Cemilan Gorengan,2,30000,60000,Kebab Mini Ori,Monday,Weekday,2026-09,38
+TRX054,2026-09-14,So Good Nuget Sedaap,Nugget & Sosis,3,29000,87000,So Good Nuget Sedaap,Monday,Weekday,2026-09,38
+TRX054,2026-09-14,Sunfish Chikuwa 1kg,Olahan Ikan,4,60000,240000,Sunfish Chikuwa 1kg,Monday,Weekday,2026-09,38
+TRX054,2026-09-14,Antaka jagung bakar,Bumbu dan saus,1,10000,10000,Antaka jagung bakar,Monday,Weekday,2026-09,38
+TRX054,2026-09-14,Jamur,Sayur,3,7000,21000,Jamur,Monday,Weekday,2026-09,38
+TRX055,2026-09-15,"Champ Nuget Ori, Crispy",Nugget & Sosis,1,37000,37000,"Champ Nuget Ori, Crispy",Tuesday,Weekday,2026-09,38
+TRX055,2026-09-15,Delmonte saos manis 1kg,Bumbu dan saus,3,18000,54000,Delmonte saos manis 1kg,Tuesday,Weekday,2026-09,38
+TRX055,2026-09-15,Koki Jempol bumbu steamboat,Bumbu dan saus,1,15000,15000,Koki Jempol bumbu steamboat,Tuesday,Weekday,2026-09,38
+TRX055,2026-09-15,naget kanzler spicy 450.g,Nugget & Sosis,1,47000,47000,Nuget kanzler spicy 450.g,Tuesday,Weekday,2026-09,38
+TRX055,2026-09-15,Aluminuim Foil,Kemasan,3,40000,120000,Aluminuim Foil,Tuesday,Weekday,2026-09,38
+TRX055,2026-09-15,Royco ayam 1 renteng,Sembako,3,6000,18000,Royco ayam 1 renteng,Tuesday,Weekday,2026-09,38
+TRX055,2026-09-15,"Kenzler Nuget Spicy, Ori",Nugget & Sosis,2,47000,94000,"Kanzler Nuget Spicy, Ori",Tuesday,Weekday,2026-09,38
+TRX055,2026-09-15,Masku minyak goreng 1L,Sembako,2,21000,42000,Masku minyak goreng 1L,Tuesday,Weekday,2026-09,38
+TRX055,2026-09-15,Sarung Tangan / handglove,Kemasan,2,12000,24000,Sarung Tangan / handglove,Tuesday,Weekday,2026-09,38
+TRX055,2026-09-15,Teh sariwangi isi.50,Sembako,1,14000,14000,Teh sariwangi isi.50,Tuesday,Weekday,2026-09,38
+TRX056,2026-09-19,kentang shoestring 500.g,Nugget & Sosis,1,20000,20000,kentang shoestring 500.g,Saturday,Weekend,2026-09,38
+TRX056,2026-09-19,Sterofoam bubur,Kemasan,2,55000,110000,Sterofoam bubur,Saturday,Weekend,2026-09,38
+TRX056,2026-09-19,Kikkoman Barbekue,Bumbu dan saus,1,25000,25000,Kikkoman Barbekue,Saturday,Weekend,2026-09,38
+TRX056,2026-09-19,Saori saus teriyaki rentengan,Sembako,10,3000,30000,Saori saus teriyaki rentengan,Saturday,Weekend,2026-09,38
+TRX056,2026-09-19,Koki Jempol bumbu steamboat,Bumbu dan saus,1,15000,15000,Koki Jempol bumbu steamboat,Saturday,Weekend,2026-09,38
+TRX056,2026-09-19,Tisu bulat jolly bal,Sembako,1,16000,16000,Tisu bulat jolly bal,Saturday,Weekend,2026-09,38
+TRX056,2026-09-19,So Good Nuget Sedaap,Nugget & Sosis,1,29000,29000,So Good Nuget Sedaap,Saturday,Weekend,2026-09,38
+TRX056,2026-09-19,Teh sariwangi isi.50,Sembako,1,14000,14000,Teh sariwangi isi.50,Saturday,Weekend,2026-09,38
+TRX056,2026-09-19,Selada / Enoki,Sayur,1,10000,10000,Selada / Enoki,Saturday,Weekend,2026-09,38
+TRX056,2026-09-19,Nugger Akumo,Nugget & Sosis,1,29000,29000,Nugger Akumo,Saturday,Weekend,2026-09,38
+TRX057,2026-09-20,Beras mangkok 20.kg,Sembako,1,380000,380000,Beras mangkok 20.kg,Sunday,Weekend,2026-09,38
+TRX057,2026-09-20,Filma minyak goreng 1L,Sembako,4,22000,88000,Filma minyak goreng 1L,Sunday,Weekend,2026-09,38
+TRX057,2026-09-20,Gula pasir,Sembako,1,20000,20000,Gula pasir,Sunday,Weekend,2026-09,38
+TRX057,2026-09-20,Salam Pentol Sapi,Nugget & Sosis,3,25000,75000,Salam Pentol Sapi,Sunday,Weekend,2026-09,38
+TRX057,2026-09-20,Sunfish Crab Stick,Olahan Ikan,1,60000,60000,Sunfish Crab Stick,Sunday,Weekend,2026-09,38
+TRX057,2026-09-20,sedotan bubble,Sembako,1,17000,17000,sedotan bubble,Sunday,Weekend,2026-09,38
+TRX057,2026-09-20,Sunfish Singapore 500g,Olahan Ikan,1,26000,26000,Sunfish Singapore 500g,Sunday,Weekend,2026-09,38
+TRX057,2026-09-20,Padasuka pala bubuk rentengan,Sembako,3,1000,3000,Padasuka pala bubuk rentengan,Sunday,Weekend,2026-09,38
+TRX058,2026-09-21,Kanzler Sosis Original Cocktail 500g,Nugget & Sosis,1,50000,50000,Kanzler Sosis Original Cocktail 500g,Monday,Weekday,2026-09,39
+TRX058,2026-09-21,Mc lewis original mayonnaise 1.kg,Bumbu dan saus,3,24500,73500,Mc lewis original mayonnaise 1.kg,Monday,Weekday,2026-09,39
+TRX058,2026-09-21,Fiesta pokpok,Nugget & Sosis,1,47000,47000,Fiesta pokpok,Monday,Weekday,2026-09,39
